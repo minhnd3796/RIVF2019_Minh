@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related work}{}% 2
+\BOOKMARK [1][-]{section.3}{Our proposed approach}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Deep residual network}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Fully convolutional network}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Cross-entropy loss}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Our Fully Convolutional Networks with ResNet101}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Experiments and Evaluation}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Datasets}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Data augmentation}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Implementation details}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.4}{Experimental results}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 13
